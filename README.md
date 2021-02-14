@@ -1,5 +1,5 @@
 # IP-System
-git clone https://github.com/Sos1ska/IP-System
-cd IP-System/Sos-BreakIP/
-bash install.sh
-python3 BreakIP.py
+1. git clone https://github.com/Sos1ska/IP-System
+2. cd IP-System/Sos-BreakIP/
+3. bash install.sh
+4. python3 BreakIP.py
